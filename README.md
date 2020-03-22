@@ -66,7 +66,7 @@ And for the last step, running the server
 `npm start`
 
 ### Client Setup
-First npm install after install  Then, run the application.
+First `npm install` will be install package module after install  Then, run the application.
 
 `npm start`
 
