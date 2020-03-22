@@ -10,12 +10,15 @@ Now there is a matchmaking application for your pet with the name Breednder. Thi
 
 
 
+## Getting Started
+
+
 Screenshots
 Built With
 Author
 License
 
-[^1]: Getting Started
+Getting Started
 Before starting to install the project, there're some things that need to be done first.
 
 Prerequisites
