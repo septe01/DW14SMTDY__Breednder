@@ -1,8 +1,8 @@
-#Breednder
+# Breednder
 Now there is a matchmaking application for your pet with the name Breednder. This website based application is made with ReactJs. where you can find your animal pairs by right swipe for likes and left swipe for dislikes.
 
-##Table of Contents
-*Getting Started[^1]
+## Table of Contents
+*Getting Started [^1]
   *Prerequisites
 Installation
 Server Setup
@@ -12,7 +12,7 @@ Built With
 Author
 License
 
-[^1]:Getting Started
+[^1]: Getting Started
 Before starting to install the project, there're some things that need to be done first.
 
 Prerequisites
