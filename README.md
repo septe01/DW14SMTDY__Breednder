@@ -3,7 +3,7 @@ Now there is a matchmaking application for your pet with the name Breednder. Thi
 
 ## Table of Contents
 * [Getting Started][#getting-started]
-	* Prerequisites 
+	*  [Prerequisites][#prerequisites]
 	* Installation
 	* Server Setup
 	* Client Setup
@@ -11,19 +11,15 @@ Now there is a matchmaking application for your pet with the name Breednder. Thi
 
 
 ## Getting Started
-
-[#getting-started]: #getting-started
-
-Screenshots
-Built With
-Author
-License
-
-Getting Started
 Before starting to install the project, there're some things that need to be done first.
 
-Prerequisites
+### Prerequisites
 Make sure all of these are properly installed in your system.
+
+
+
+[#getting-started]: #getting-started
+[#prerequisites]: #prerequisites "prerequisites"
 
 Application	Download
 Git	Windows / Linux
